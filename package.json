@@ -11,7 +11,6 @@
     "nextDev": "next dev",
     "nextBuild": "next build",
     "nextStart": "next start"
-  
   },
   "dependencies": {
     "config": "^3.0.1",
